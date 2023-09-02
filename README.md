@@ -3,7 +3,10 @@ TrendBazaar is a full-fledged e-commerce website built using the MERN (MongoDB, 
 This platform allows users to browse through various product categories, view products from different brands, and add items to their cart for purchase.
 The project is an eCommerce Website designed to facilitate online shopping experiences by providing essential functionalities related to products, categories, users, and brands.
 
+#Live URL:https://odd-plum-ant-shoe.cyclic.app/login
+
 #Features
+
 ###User Authentication: Users can sign up, log in, and manage their accounts. This provides personalized shopping experiences and secure access.
 
 ###Product Categories: Products are organized into different categories for easy navigation and browsing.
